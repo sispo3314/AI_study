@@ -4,4 +4,4 @@
 https://encouraging-growth-39f.notion.site/CNN-270358573e36809c896ec7caa80d1d7d?pvs=143
 
 ### Transformer
-<iframe src="https://encouraging-growth-39f.notion.site/ebd/276358573e3680da9985c51e7a6f6e12" width="100%" height="600" frameborder="0" allowfullscreen />
+https://encouraging-growth-39f.notion.site/Transformer-276358573e3680da9985c51e7a6f6e12?pvs=74
