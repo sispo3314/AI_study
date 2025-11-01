@@ -1,4 +1,5 @@
 📘 **UCI HAR 데이터셋**
+
 출처: University of California, Irvine (UCI Machine Learning Repository)
 연도: 2012년
 목적: 스마트폰 내 센서(가속도계·자이로스코프)를 이용하여 사용자의 **일상 활동(Activity)** 을 자동 인식하는 모델을 개발하기 위함
