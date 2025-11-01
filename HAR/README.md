@@ -1,17 +1,14 @@
-📘 **UCI HAR 데이터셋**
+## 📘 **UCI HAR 데이터셋**
 
-출처: University of California, Irvine (UCI Machine Learning Repository)
-
-연도: 2012년
-
-목적: 스마트폰 내 센서(가속도계·자이로스코프)를 이용하여 사용자의 **일상 활동(Activity)** 을 자동 인식하는 모델을 개발하기 위함
-
-참가자(Subjects): 총 **30명** (ID: 1~30)
+* 출처: University of California, Irvine (UCI Machine Learning Repository)
+* 연도: 2012년
+* 목적: 스마트폰 내 센서(가속도계·자이로스코프)를 이용하여 사용자의 **일상 활동(Activity)** 을 자동 인식하는 모델을 개발하기 위함
+* 참가자(Subjects): 총 **30명** (ID: 1~30)
 각 참가자가 다양한 일상 동작을 수행하면서 스마트폰을 **허리에 착용**한 상태로 데이터 수집
 
 ---
 
-⚙️ **실험 구성 (Experimental Setup)**
+## ⚙️ **실험 구성 (Experimental Setup)**
 
 **센서 장비:**
 
@@ -38,7 +35,7 @@
 
 ---
 
-🏃‍♂️ **수집된 활동 (Activity Set)**
+## 🏃‍♂️ **수집된 활동 (Activity Set)**
 
 | Label | Activity           | 설명      |
 | :---: | :----------------- | :------ |
@@ -53,7 +50,7 @@
 
 ---
 
-🗂️ **데이터 파일 구조 (File Structure)**
+## 🗂️ **데이터 파일 구조 (File Structure)**
 
 모든 데이터는 `UCI HAR Dataset/` 디렉토리 내에 저장되어 있으며,
 **train/** 과 **test/** 두 하위 폴더로 구성.
@@ -71,7 +68,7 @@
 
 ---
 
-📊 **특징(Feature) 구성**
+## 📊 **특징(Feature) 구성**
 
 총 **561개 특징(columns)** 으로 구성
 → 시간영역(Time domain) + 주파수영역(Frequency domain) 신호 결합
@@ -89,7 +86,7 @@
 
 ---
 
-💡 **요약**
+## 💡 **요약**
 
 | 항목     | 내용                     |
 | ------ | ---------------------- |
@@ -104,7 +101,7 @@
 
 ---
 
-🎯 **사용 목적**
+## 🎯 **사용 목적**
 
 * 사람의 활동(Activity)을 분류하는 **기계학습/딥러닝 모델 학습**
 * SVM, Random Forest, CNN, LSTM, Transformer 기반의 HAR 연구에 널리 사용
