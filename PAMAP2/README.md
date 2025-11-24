@@ -1,7 +1,9 @@
 # 📘 **PAMAP2 Physical Activity Monitoring Dataset**
 
 📌 **출처:** UCI Machine Learning Repository / Universität Stuttgart
+
 📌 **연도:** 2012
+
 📌 **목적:**
 세 개의 웨어러블 센서를 통해 **일상 활동(Physical Activity)을 자동 인식(HAR)** 하는 알고리즘을 개발하기 위함
 
