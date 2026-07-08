@@ -22,7 +22,7 @@
 - [AI·머신러닝·딥러닝 기초 개념 정리](https://www.notion.so/262358573e3680ebb257ed11c5ca0d48?source=copy_link)
 - [CNN](https://encouraging-growth-39f.notion.site/CNN-270358573e36809c896ec7caa80d1d7d?pvs=143)
 - [Transformer](https://encouraging-growth-39f.notion.site/Transformer-276358573e3680da9985c51e7a6f6e12?pvs=74)
-- [Transformer(update)](https://encouraging-growth-39f.notion.site/Transformer-389358573e3680e2aa1cdc5bee4c696c?source=copy_link)
+- [Transformer(updated)](https://encouraging-growth-39f.notion.site/Transformer-389358573e3680e2aa1cdc5bee4c696c?source=copy_link)
 - [GPT-1](https://www.notion.so/GPT-1-389358573e3680779054cec8d3eabc7f?source=copy_link)
 - [BERT](https://www.notion.so/BERT-397358573e3680439acacdf98f42df76?source=copy_link)
 - [seq2seq](https://www.notion.so/Sequence-to-Sequence-36e358573e3680a79814ded8f20a43ec?source=copy_link)
