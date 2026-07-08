@@ -27,6 +27,7 @@
 - [HAR paper Review](https://www.notion.so/2d9358573e36809187e5f46c05f550af?source=copy_link)
 - [Mamba](https://www.notion.so/Mamba-382358573e36800dbf30f0c6a78c86cd?source=copy_link)
 - [Perceiver/Perceiver IO](https://www.notion.so/Perceiver-Perceiver-IO-389358573e3680e5b848dc705d4f1675?source=copy_link)
+- [PatchTST] TODO [ ]
 
 ### Lectures
 - [Time series Analysis Seminar](https://www.notion.so/Time-series-Analysis-Seminar-Day1-395358573e3680d09fede0e73bda8b54?source=copy_link)
