@@ -1,5 +1,10 @@
 # AI Study Notes
-인공지능 개념, 딥러닝 모델 구조, 논문 분석, 코드 실험 내용
+# AI Study Notes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Study](https://img.shields.io/badge/AI-Study-blue?style=flat-square)
 
 ## Categories
 
